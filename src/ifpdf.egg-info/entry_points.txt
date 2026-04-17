@@ -1,0 +1,2 @@
+[console_scripts]
+ifpdf = ifpdf.cli:app

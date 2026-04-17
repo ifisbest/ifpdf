@@ -1,0 +1,16 @@
+README.md
+pyproject.toml
+src/ifpdf/__init__.py
+src/ifpdf/__main__.py
+src/ifpdf/chunker.py
+src/ifpdf/cli.py
+src/ifpdf/extractor.py
+src/ifpdf/formatter.py
+src/ifpdf/layout.py
+src/ifpdf/utils.py
+src/ifpdf.egg-info/PKG-INFO
+src/ifpdf.egg-info/SOURCES.txt
+src/ifpdf.egg-info/dependency_links.txt
+src/ifpdf.egg-info/entry_points.txt
+src/ifpdf.egg-info/requires.txt
+src/ifpdf.egg-info/top_level.txt
